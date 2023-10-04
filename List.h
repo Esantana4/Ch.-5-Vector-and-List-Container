@@ -7,6 +7,8 @@
 #include"Student.h"
 using namespace std;
 
+// Credit: Thanh Tran & John Kim & Christian Hernandez & Saul Merino
+
 //input (1) header files inputs validation
 char inputChar(string prompt, string lookup);
 int inputInteger(string prompt, int startRange, int endRange);

@@ -3,15 +3,10 @@
  9/27/23
  CPMR 131 - Professor Q
 
- Description:
- Part 1: Vector - This class multiplies, divides, adds, subtracts 2 complex numbers. This class also checks if 2 complex numbers are equal or not.
- Part 2: List - 
- Part 3: Application, Vector or List - 
-
  Credit:
- Part 1: Vector - Joe Bryant & Erik Santana & Christian Hernandez
- Part 2: List - Thanh Tran & John Kim
- Part 3: Application, Vector or List - Otoniel Torres Bernal & Saul Merino
+ Part 1: Vector - Joe Bryant & Erik Santana & Christian Hernandez & Saul Merino
+ Part 2: List - Thanh Tran & John Kim & Christian Hernandez & Saul Merino
+ Part 3: Application, Vector or List - Otoniel Torres Bernal & Saul Merino & John Kim
  */
 
 #include<iostream>

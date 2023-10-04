@@ -1,5 +1,7 @@
 #include "Vector.h"
 
+// Credit: Joe Bryant& Erik Santana& Christian Hernandez& Saul Merino
+
 //precondition: scope class and calling my default constructor and intializing
 //postcondition: going to pass in the Student class
 Vector::Vector() {
