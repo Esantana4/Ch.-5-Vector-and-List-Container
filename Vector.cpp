@@ -178,9 +178,10 @@ void Vector::endIterator() {
         system("cls");
         return;
     }
-    auto it = data.end();
-    //getting the memeory address of the end, have to get the previous element that is the end
-    cout << "\n\t\tThe iterator referring to the past-the-end element: " << &it;
+    //getting the memory right after the last element
+    student* addressAfterLastElement = data.data() + data.size();
+    //getting the memeory address of the end
+    cout << "\n\t\tThe iterator referring to the past-the-end element: " << addressAfterLastElement;
     cout << "\n\n";
     system("pause");
     system("cls");
