@@ -7,7 +7,7 @@
 #include"Student.h"
 using namespace std;
 
-// Credit: Joe Bryant & Erik Santana & Christian Hernandez & Saul Merino
+// Credit: Christian Hernandez & Saul Merino
 
 //input (1) header files inputs validation
 char inputChar(string prompt, string lookup);

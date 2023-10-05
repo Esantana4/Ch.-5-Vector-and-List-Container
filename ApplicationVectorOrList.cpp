@@ -1,6 +1,6 @@
 #include "ApplicationVectorOrList.h"
 
-// Credit: Otoniel Torres Bernal & Saul Merino & John Kim
+// Credit: Otoniel Torres Bernal & Joe Bryant & Erik Santana
 
 //precondition: scope class and calling my default constructor and intializing
 //postcondition: going to pass in the intialize data

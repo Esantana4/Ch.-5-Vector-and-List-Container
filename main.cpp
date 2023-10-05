@@ -4,9 +4,9 @@
  CPMR 131 - Professor Q
 
  Credit:
- Part 1: Vector - Joe Bryant & Erik Santana & Christian Hernandez & Saul Merino
- Part 2: List - Thanh Tran & John Kim & Christian Hernandez & Saul Merino
- Part 3: Application, Vector or List - Otoniel Torres Bernal & Saul Merino & John Kim
+ Part 1: Vector - Christian Hernandez & Saul Merino
+ Part 2: List - Thanh Tran & John Kim
+ Part 3: Application, Vector or List - Otoniel Torres Bernal & Joe Bryant & Erik Santana
  */
 
 #include<iostream>

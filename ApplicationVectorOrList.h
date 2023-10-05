@@ -7,7 +7,7 @@
 #include<map>
 using namespace std;
 
-// Credit: Otoniel Torres Bernal & Saul Merino & John Kim
+// Credit: Otoniel Torres Bernal & Joe Bryant & Erik Santana
 
 //input (1) header files inputs validation
 char inputChar(string prompt, string lookup);
